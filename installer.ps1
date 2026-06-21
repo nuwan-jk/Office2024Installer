@@ -1,4 +1,3 @@
-﻿iex(irm 'https://raw.githubusercontent.com/nuwan-jk/Office2024Installer/refs/heads/main/installer.ps1')
 
 # 1. Require Administrator Privileges and Hide PowerShell Window
 $isWindowsPrincipal = [Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()
